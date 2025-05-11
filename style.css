@@ -58,6 +58,7 @@ body {
 }
 .div {    
     display:grid;
+    justify-content: center;
     gap: 2vh;
     grid-template-columns: repeat(2,1fr);
 }
