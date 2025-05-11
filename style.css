@@ -8,14 +8,13 @@ body {
     justify-items:center;
     gap: 10%;
     grid-template-columns: repeat(2,1fr);
-    border: 2px solid black;
     width:35vh;
 }
  #div{
     height: 15vh;
     width: 15vh;
     border-radius: 20%;
-    box-shadow: 2px 2px 10px;
+    box-shadow: 2px 2px 5px;
  }
 
 
