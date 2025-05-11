@@ -62,3 +62,23 @@ body {
     gap: 2vh;
     grid-template-columns: repeat(2,1fr);
 }
+@media (max-width: 600px) {
+    .body {
+      flex-direction: row;
+      max-width: 90%;
+      gap: 15px;
+    }
+  
+    #play {
+      width: 80px;
+      height: 80px;
+    }
+  
+    h1 {
+      font-size: 2rem;
+    }
+  
+    h3 {
+      font-size: 1rem;
+    }
+  }
