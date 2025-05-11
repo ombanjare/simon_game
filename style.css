@@ -61,3 +61,7 @@ body {
     cursor: pointer;
     
 }
+a{
+    margin: 30px;
+    font-size: 0.9rem;
+}
